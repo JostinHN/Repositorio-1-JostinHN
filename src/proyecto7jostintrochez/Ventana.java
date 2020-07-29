@@ -154,6 +154,7 @@ public class Ventana extends JFrame{
     }
 
     private void cajaTextoActionPerformed(java.awt.event.ActionEvent evt) {
+        
     }
     
     private void botonActionPerformed(java.awt.event.ActionEvent evt) {                                          

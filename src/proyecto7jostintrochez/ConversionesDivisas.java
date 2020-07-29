@@ -58,7 +58,8 @@ public class ConversionesDivisas {
         
         if (divisa==2 && otradivisa==1){
             resultado = valor * 0.040;}
-        
+             
         return resultado;
+              
     }
 }
